@@ -3,7 +3,7 @@ public:
     bool canReach(int n , vector<vector<pair<int,int>>>& adj , int threshold , long long k){
         priority_queue<pair<long long,int>,vector<pair<long long,int>>, greater<pair<long long,int>>> pq;
         vector<long long> dist(n,LONG_MAX);
-
+        //isme dist ko long long hi rakhna padega nhi to zyada bade test catse me fail ho jayega
         dist[0]=0;
         pq.push({0,0});//cost, u
 
