@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shezan-Anwar/DSA/tree/master/0013-roman-to-integer) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Shezan-Anwar/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shezan-Anwar/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Breadth-First Search
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shezan-Anwar/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Shezan-Anwar/DSA/tree/master/0066-plus-one) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shezan-Anwar/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shezan-Anwar/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -95,5 +97,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shezan-Anwar/DSA/tree/master/0013-roman-to-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shezan-Anwar/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
