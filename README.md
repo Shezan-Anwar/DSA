@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0070-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shezan-Anwar/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Shezan-Anwar/DSA/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shezan-Anwar/DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Shezan-Anwar/DSA/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0070-climbing-stairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Shezan-Anwar/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Shezan-Anwar/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shezan-Anwar/DSA/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/Shezan-Anwar/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shezan-Anwar/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
