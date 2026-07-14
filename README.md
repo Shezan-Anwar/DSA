@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Shezan-Anwar/DSA/tree/master/0066-plus-one) |
+| [0198-house-robber](https://github.com/Shezan-Anwar/DSA/tree/master/0198-house-robber) |
 | [1288-remove-covered-intervals](https://github.com/Shezan-Anwar/DSA/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shezan-Anwar/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Shezan-Anwar/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Shezan-Anwar/DSA/tree/master/0198-house-robber) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shezan-Anwar/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Shezan-Anwar/DSA/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
