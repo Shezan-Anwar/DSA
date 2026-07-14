@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Shezan-Anwar/DSA/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Shezan-Anwar/DSA/tree/master/0066-plus-one) |
 | [0198-house-robber](https://github.com/Shezan-Anwar/DSA/tree/master/0198-house-robber) |
 | [1288-remove-covered-intervals](https://github.com/Shezan-Anwar/DSA/tree/master/1288-remove-covered-intervals) |
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Shezan-Anwar/DSA/tree/master/1291-sequential-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Shezan-Anwar/DSA/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
