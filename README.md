@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Shezan-Anwar/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shezan-Anwar/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shezan-Anwar/DSA/tree/master/1584-min-cost-to-connect-all-points) |
+| [1920-build-array-from-permutation](https://github.com/Shezan-Anwar/DSA/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shezan-Anwar/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shezan-Anwar/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shezan-Anwar/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Shezan-Anwar/DSA/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Shezan-Anwar/DSA/tree/master/1260-shift-2d-grid) |
+| [1920-build-array-from-permutation](https://github.com/Shezan-Anwar/DSA/tree/master/1920-build-array-from-permutation) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shezan-Anwar/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
