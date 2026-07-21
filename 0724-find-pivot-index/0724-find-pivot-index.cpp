@@ -5,13 +5,15 @@ public:
         vector<int> suffSum(nums.size(),0);
         int sum = 0 ; 
         for(int i = 1 ; i < nums.size() ; i++){
-           sum=sum+nums[i-1];
-           preSum[i]=sum;
+        //    sum=sum+nums[i-1];
+        //    preSum[i]=sum;
+        preSum[i]= nums[i-1]+preSum[i-1];
         }
         sum = 0;
         for(int i = nums.size()-2 ; i >=0 ; i--){
-            sum=sum+nums[i+1];
-            suffSum[i] = sum;
+            // sum=sum+nums[i+1];
+            // suffSum[i] = sum;
+            suffSum[i]= nums[i+1]+suffSum[i+1];
         }
         for(int i = 0 ; i < nums.size(); i++){
             if(preSum[i]==suffSum[i]){
