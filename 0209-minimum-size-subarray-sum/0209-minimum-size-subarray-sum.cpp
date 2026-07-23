@@ -8,14 +8,14 @@ public:
         
         while (right < n){
             sum+=nums[right];
-            if(sum>=target){
+           
                 while(sum>=target ){
                     minSize= min(minSize,right-left+1);
                     sum-=nums[left];
             
                  left++;
                 }
-            }
+            
             right++;
         }
         return minSize == INT_MAX ? 0 : minSize;
