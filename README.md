@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shezan-Anwar/DSA/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Shezan-Anwar/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shezan-Anwar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Shezan-Anwar/DSA/tree/master/0136-single-number) |
 | [0198-house-robber](https://github.com/Shezan-Anwar/DSA/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Shezan-Anwar/DSA/tree/master/0213-house-robber-ii) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Shezan-Anwar/DSA/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shezan-Anwar/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Design
 |  |
