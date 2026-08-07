@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shezan-Anwar/DSA/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Shezan-Anwar/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Shezan-Anwar/DSA/tree/master/0125-valid-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shezan-Anwar/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shezan-Anwar/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Shezan-Anwar/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shezan-Anwar/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shezan-Anwar/DSA/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Shezan-Anwar/DSA/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/Shezan-Anwar/DSA/tree/master/0217-contains-duplicate) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shezan-Anwar/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0817-linked-list-components](https://github.com/Shezan-Anwar/DSA/tree/master/0817-linked-list-components) |
 | [1331-rank-transform-of-an-array](https://github.com/Shezan-Anwar/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shezan-Anwar/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Shezan-Anwar/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shezan-Anwar/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Shezan-Anwar/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Bit Manipulation
 |  |
