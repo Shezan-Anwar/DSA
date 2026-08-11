@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Shezan-Anwar/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1920-build-array-from-permutation](https://github.com/Shezan-Anwar/DSA/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shezan-Anwar/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shezan-Anwar/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shezan-Anwar/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shezan-Anwar/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shezan-Anwar/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Shezan-Anwar/DSA/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Shezan-Anwar/DSA/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Shezan-Anwar/DSA/tree/master/1920-build-array-from-permutation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shezan-Anwar/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Shezan-Anwar/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
@@ -335,4 +337,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Shezan-Anwar/DSA/tree/master/1510-stone-game-iv) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/Shezan-Anwar/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
