@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shezan-Anwar/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shezan-Anwar/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shezan-Anwar/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shezan-Anwar/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shezan-Anwar/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shezan-Anwar/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shezan-Anwar/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shezan-Anwar/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0817-linked-list-components](https://github.com/Shezan-Anwar/DSA/tree/master/0817-linked-list-components) |
 | [1331-rank-transform-of-an-array](https://github.com/Shezan-Anwar/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shezan-Anwar/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shezan-Anwar/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Shezan-Anwar/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/Shezan-Anwar/DSA/tree/master/3731-find-missing-elements) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shezan-Anwar/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Shezan-Anwar/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shezan-Anwar/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
