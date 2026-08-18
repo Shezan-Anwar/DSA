@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shezan-Anwar/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shezan-Anwar/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shezan-Anwar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Shezan-Anwar/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/Shezan-Anwar/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Shezan-Anwar/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Shezan-Anwar/DSA/tree/master/1406-stone-game-iii) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shezan-Anwar/DSA/tree/master/0136-single-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Shezan-Anwar/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Shezan-Anwar/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Shezan-Anwar/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Design
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Shezan-Anwar/DSA/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Shezan-Anwar/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shezan-Anwar/DSA/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Shezan-Anwar/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Counting Sort
 |  |
 | ------- |
