@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/Shezan-Anwar/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shezan-Anwar/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -398,5 +400,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
