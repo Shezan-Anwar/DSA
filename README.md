@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Shezan-Anwar/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shezan-Anwar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Shezan-Anwar/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shezan-Anwar/DSA/tree/master/0213-house-robber-ii) |
 | [0486-predict-the-winner](https://github.com/Shezan-Anwar/DSA/tree/master/0486-predict-the-winner) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -408,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
