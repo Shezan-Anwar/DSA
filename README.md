@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shezan-Anwar/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Shezan-Anwar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shezan-Anwar/DSA/tree/master/0075-sort-colors) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Shezan-Anwar/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shezan-Anwar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Shezan-Anwar/DSA/tree/master/0136-single-number) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Shezan-Anwar/DSA/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Shezan-Anwar/DSA/tree/master/0076-minimum-window-substring) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0217-contains-duplicate](https://github.com/Shezan-Anwar/DSA/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shezan-Anwar/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0817-linked-list-components](https://github.com/Shezan-Anwar/DSA/tree/master/0817-linked-list-components) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Shezan-Anwar/DSA/tree/master/0053-maximum-subarray) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Quicksort
 |  |
 | ------- |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0101-symmetric-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0101-symmetric-tree) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0144-binary-tree-preorder-traversal) |
