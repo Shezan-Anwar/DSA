@@ -19,7 +19,7 @@ public:
                 rSum+= num[i]-'0';
             }
         }
-        if (ql+qr == 0) return lSum != rSum;
+        
         return (2 * (lSum - rSum) + (ql - qr) * 9) != 0;
         }
 };
