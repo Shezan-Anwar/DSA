@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shezan-Anwar/DSA/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shezan-Anwar/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shezan-Anwar/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1927-sum-game](https://github.com/Shezan-Anwar/DSA/tree/master/1927-sum-game) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Shezan-Anwar/DSA/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shezan-Anwar/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shezan-Anwar/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Shezan-Anwar/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shezan-Anwar/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shezan-Anwar/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Shezan-Anwar/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shezan-Anwar/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Shezan-Anwar/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shezan-Anwar/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Shezan-Anwar/DSA/tree/master/0055-jump-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shezan-Anwar/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Shezan-Anwar/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Shezan-Anwar/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shezan-Anwar/DSA/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shezan-Anwar/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Shezan-Anwar/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Shezan-Anwar/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Shezan-Anwar/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Shezan-Anwar/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shezan-Anwar/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
