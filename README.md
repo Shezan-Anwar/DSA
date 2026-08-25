@@ -444,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shezan-Anwar/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Shezan-Anwar/DSA/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
