@@ -1,45 +1,40 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        vector<int> ans = {-1,-1};
-        if(head==NULL || head->next==NULL || head->next->next == NULL){
-            return ans;
-        }
-        ListNode* l = head;
-        ListNode* mid = head->next;
-        ListNode* r = head->next->next;
-        vector<int> idx;
-        int currIdx = 2;
-        int maxD=INT_MIN;
-        int minD=INT_MAX;
-        while(r!=NULL){
-            if((l->val > mid->val && mid->val < r->val)||(l->val < mid->val && mid->val > r->val)){
-                idx.push_back(currIdx);
+        // Fast I/O for competitive programming platforms
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+
+        int firstIdx = -1, prevIdx = -1;
+        int minD = INT_MAX;
+        
+        int prevVal = head->val;
+        ListNode* curr = head->next;
+        int currIdx = 1;
+
+        while (curr && curr->next) {
+            int cVal = curr->val;
+            int nVal = curr->next->val;
+
+            // Check for critical point
+            if ((cVal < prevVal && cVal < nVal) || (cVal > prevVal && cVal > nVal)) {
+                if (firstIdx != -1) {
+                    minD = min(minD, currIdx - prevIdx);
+                } else {
+                    firstIdx = currIdx;
+                }
+                prevIdx = currIdx;
             }
+
+            prevVal = cVal;
+            curr = curr->next;
             currIdx++;
-            l=l->next;
-            mid=mid->next;
-            r=r->next;
         }
-        if(idx.size()<=1){
-            return ans;
+
+        if (firstIdx == -1 || firstIdx == prevIdx) {
+            return {-1, -1};
         }
-        maxD = idx[idx.size()-1]-idx[0];
-        for(int i = 1; i < idx.size() ; i++){
-            minD = min(minD,idx[i]-idx[i-1]);
-        }
-        ans[0]=minD;
-        ans[1]=maxD;
-        return ans;
+
+        return {minD, prevIdx - firstIdx};
     }
 };
