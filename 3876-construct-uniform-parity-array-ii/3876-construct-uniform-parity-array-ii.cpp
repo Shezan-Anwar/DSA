@@ -2,9 +2,7 @@ class Solution {
 public:
     bool uniformArray(vector<int>& nums1) {
         int n = nums1.size();
-        if(n==1){
-            return true;
-        }
+    
         int smallestNum = INT_MAX;
         bool allEven = true;
         for(int i = 0 ; i < n;i++){
