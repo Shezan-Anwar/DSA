@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Shezan-Anwar/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1872-stone-game-viii](https://github.com/Shezan-Anwar/DSA/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/Shezan-Anwar/DSA/tree/master/1920-build-array-from-permutation) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Shezan-Anwar/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shezan-Anwar/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Shezan-Anwar/DSA/tree/master/2029-stone-game-ix) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shezan-Anwar/DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/Shezan-Anwar/DSA/tree/master/1192-critical-connections-in-a-network) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Shezan-Anwar/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shezan-Anwar/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shezan-Anwar/DSA/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Shezan-Anwar/DSA/tree/master/3310-remove-methods-from-project) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-linked-list-components](https://github.com/Shezan-Anwar/DSA/tree/master/0817-linked-list-components) |
 | [1331-rank-transform-of-an-array](https://github.com/Shezan-Anwar/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Shezan-Anwar/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Shezan-Anwar/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shezan-Anwar/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shezan-Anwar/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shezan-Anwar/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shezan-Anwar/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Shezan-Anwar/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -472,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shezan-Anwar/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Shezan-Anwar/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -479,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shezan-Anwar/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shezan-Anwar/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1932-merge-bsts-to-create-single-bst](https://github.com/Shezan-Anwar/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 ## DP on Trees
 |  |
 | ------- |
