@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shezan-Anwar/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shezan-Anwar/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Shezan-Anwar/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Shezan-Anwar/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shezan-Anwar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Shezan-Anwar/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Shezan-Anwar/DSA/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/Shezan-Anwar/DSA/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Shezan-Anwar/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Shezan-Anwar/DSA/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shezan-Anwar/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shezan-Anwar/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
