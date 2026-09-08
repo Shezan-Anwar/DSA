@@ -4,7 +4,8 @@ public:
         // if(n/1000==0){
         //     return 0;
         // }    
-        return n-1000+1 <= 0 ? 0:n-1000+1; 
+        int ans = n-1000+1;
+        return ans <= 0 ? 0:ans; 
         
     }
 };
