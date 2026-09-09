@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shezan-Anwar/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Shezan-Anwar/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Shezan-Anwar/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/Shezan-Anwar/DSA/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Shezan-Anwar/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shezan-Anwar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shezan-Anwar/DSA/tree/master/0643-maximum-average-subarray-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Shezan-Anwar/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shezan-Anwar/DSA/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Shezan-Anwar/DSA/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Shezan-Anwar/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shezan-Anwar/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/Shezan-Anwar/DSA/tree/master/0322-coin-change) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shezan-Anwar/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shezan-Anwar/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -515,4 +518,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shezan-Anwar/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Shezan-Anwar/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Shezan-Anwar/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
