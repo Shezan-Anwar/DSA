@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shezan-Anwar/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Shezan-Anwar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shezan-Anwar/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Shezan-Anwar/DSA/tree/master/0088-merge-sorted-array) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Shezan-Anwar/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shezan-Anwar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shezan-Anwar/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Shezan-Anwar/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Shezan-Anwar/DSA/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shezan-Anwar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Shezan-Anwar/DSA/tree/master/1288-remove-covered-intervals) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shezan-Anwar/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Shezan-Anwar/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Shezan-Anwar/DSA/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Shezan-Anwar/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shezan-Anwar/DSA/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/Shezan-Anwar/DSA/tree/master/0234-palindrome-linked-list) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Shezan-Anwar/DSA/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
