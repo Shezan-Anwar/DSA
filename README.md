@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shezan-Anwar/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shezan-Anwar/DSA/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Shezan-Anwar/DSA/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Shezan-Anwar/DSA/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Shezan-Anwar/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shezan-Anwar/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Shezan-Anwar/DSA/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/Shezan-Anwar/DSA/tree/master/0338-counting-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Shezan-Anwar/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/Shezan-Anwar/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shezan-Anwar/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
