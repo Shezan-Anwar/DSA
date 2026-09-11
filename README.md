@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shezan-Anwar/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Shezan-Anwar/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shezan-Anwar/DSA/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/Shezan-Anwar/DSA/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Shezan-Anwar/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Shezan-Anwar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Shezan-Anwar/DSA/tree/master/0075-sort-colors) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shezan-Anwar/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shezan-Anwar/DSA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Shezan-Anwar/DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Shezan-Anwar/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Shezan-Anwar/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Shezan-Anwar/DSA/tree/master/0118-pascals-triangle) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Shezan-Anwar/DSA/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Shezan-Anwar/DSA/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/Shezan-Anwar/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Shezan-Anwar/DSA/tree/master/1301-number-of-paths-with-max-score) |
