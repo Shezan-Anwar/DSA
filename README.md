@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shezan-Anwar/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Shezan-Anwar/DSA/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shezan-Anwar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Shezan-Anwar/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shezan-Anwar/DSA/tree/master/0704-binary-search) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Shezan-Anwar/DSA/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Shezan-Anwar/DSA/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Shezan-Anwar/DSA/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Shezan-Anwar/DSA/tree/master/0877-stone-game) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/Shezan-Anwar/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -611,4 +614,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0494-target-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
