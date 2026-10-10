@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shezan-Anwar/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0494-target-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shezan-Anwar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shezan-Anwar/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Shezan-Anwar/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shezan-Anwar/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shezan-Anwar/DSA/tree/master/0724-find-pivot-index) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Shezan-Anwar/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Shezan-Anwar/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shezan-Anwar/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shezan-Anwar/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shezan-Anwar/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shezan-Anwar/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shezan-Anwar/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Shezan-Anwar/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shezan-Anwar/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shezan-Anwar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shezan-Anwar/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1288-remove-covered-intervals](https://github.com/Shezan-Anwar/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shezan-Anwar/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shezan-Anwar/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shezan-Anwar/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Shezan-Anwar/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shezan-Anwar/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shezan-Anwar/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0817-linked-list-components](https://github.com/Shezan-Anwar/DSA/tree/master/0817-linked-list-components) |
 | [1331-rank-transform-of-an-array](https://github.com/Shezan-Anwar/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Shezan-Anwar/DSA/tree/master/1386-cinema-seat-allocation) |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Shezan-Anwar/DSA/tree/master/0055-jump-game) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shezan-Anwar/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0678-valid-parenthesis-string](https://github.com/Shezan-Anwar/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shezan-Anwar/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shezan-Anwar/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -446,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Shezan-Anwar/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shezan-Anwar/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shezan-Anwar/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Shezan-Anwar/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shezan-Anwar/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shezan-Anwar/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
