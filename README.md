@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Shezan-Anwar/DSA/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Shezan-Anwar/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shezan-Anwar/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Shezan-Anwar/DSA/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Shezan-Anwar/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Shezan-Anwar/DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Shezan-Anwar/DSA/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shezan-Anwar/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/Shezan-Anwar/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shezan-Anwar/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shezan-Anwar/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -161,12 +163,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shezan-Anwar/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shezan-Anwar/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shezan-Anwar/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shezan-Anwar/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shezan-Anwar/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shezan-Anwar/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Shezan-Anwar/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shezan-Anwar/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3620-network-recovery-pathways](https://github.com/Shezan-Anwar/DSA/tree/master/3620-network-recovery-pathways) |
 ## Union-Find
 |  |
@@ -224,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Shezan-Anwar/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Shezan-Anwar/DSA/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/Shezan-Anwar/DSA/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shezan-Anwar/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Shezan-Anwar/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Shezan-Anwar/DSA/tree/master/2685-count-the-number-of-complete-components) |
@@ -252,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shezan-Anwar/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0684-redundant-connection](https://github.com/Shezan-Anwar/DSA/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Shezan-Anwar/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/Shezan-Anwar/DSA/tree/master/1192-critical-connections-in-a-network) |
