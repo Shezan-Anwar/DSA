@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shezan-Anwar/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/Shezan-Anwar/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Shezan-Anwar/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shezan-Anwar/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shezan-Anwar/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Shezan-Anwar/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/Shezan-Anwar/DSA/tree/master/0234-palindrome-linked-list) |
 | [0817-linked-list-components](https://github.com/Shezan-Anwar/DSA/tree/master/0817-linked-list-components) |
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shezan-Anwar/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Shezan-Anwar/DSA/tree/master/0053-maximum-subarray) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/Shezan-Anwar/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -707,4 +710,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Shezan-Anwar/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shezan-Anwar/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Shezan-Anwar/DSA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
