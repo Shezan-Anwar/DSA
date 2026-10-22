@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shezan-Anwar/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shezan-Anwar/DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Shezan-Anwar/DSA/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/Shezan-Anwar/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Shezan-Anwar/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Shezan-Anwar/DSA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Shezan-Anwar/DSA/tree/master/0063-unique-paths-ii) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/Shezan-Anwar/DSA/tree/master/0051-n-queens) |
 | [0301-remove-invalid-parentheses](https://github.com/Shezan-Anwar/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0494-target-sum) |
 ## Bracket Sequences
@@ -723,4 +725,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Shezan-Anwar/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Shezan-Anwar/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
