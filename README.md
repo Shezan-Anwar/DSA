@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Shezan-Anwar/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Shezan-Anwar/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Shezan-Anwar/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Shezan-Anwar/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Shezan-Anwar/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shezan-Anwar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Shezan-Anwar/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Shezan-Anwar/DSA/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Shezan-Anwar/DSA/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/Shezan-Anwar/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Shezan-Anwar/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Shezan-Anwar/DSA/tree/master/0125-valid-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
