@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Shezan-Anwar/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Shezan-Anwar/DSA/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/Shezan-Anwar/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Shezan-Anwar/DSA/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Shezan-Anwar/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shezan-Anwar/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Shezan-Anwar/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Shezan-Anwar/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Shezan-Anwar/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0258-add-digits](https://github.com/Shezan-Anwar/DSA/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/Shezan-Anwar/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Shezan-Anwar/DSA/tree/master/0509-fibonacci-number) |
@@ -608,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Shezan-Anwar/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Shezan-Anwar/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Shezan-Anwar/DSA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Shezan-Anwar/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/Shezan-Anwar/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Shezan-Anwar/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Shezan-Anwar/DSA/tree/master/0450-delete-node-in-a-bst) |
