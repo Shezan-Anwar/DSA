@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shezan-Anwar/DSA/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Shezan-Anwar/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Shezan-Anwar/DSA/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/Shezan-Anwar/DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Shezan-Anwar/DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Shezan-Anwar/DSA/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Shezan-Anwar/DSA/tree/master/0115-distinct-subsequences) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Shezan-Anwar/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Shezan-Anwar/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Shezan-Anwar/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Shezan-Anwar/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Shezan-Anwar/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Shezan-Anwar/DSA/tree/master/0096-unique-binary-search-trees) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shezan-Anwar/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Shezan-Anwar/DSA/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Shezan-Anwar/DSA/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/Shezan-Anwar/DSA/tree/master/1920-build-array-from-permutation) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Shezan-Anwar/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shezan-Anwar/DSA/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/Shezan-Anwar/DSA/tree/master/0338-counting-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Shezan-Anwar/DSA/tree/master/0779-k-th-symbol-in-grammar) |
