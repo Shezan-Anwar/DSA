@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Shezan-Anwar/DSA/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Shezan-Anwar/DSA/tree/master/1584-min-cost-to-connect-all-points) |
 | [1872-stone-game-viii](https://github.com/Shezan-Anwar/DSA/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/Shezan-Anwar/DSA/tree/master/1882-process-tasks-using-servers) |
 | [1920-build-array-from-permutation](https://github.com/Shezan-Anwar/DSA/tree/master/1920-build-array-from-permutation) |
 | [1932-merge-bsts-to-create-single-bst](https://github.com/Shezan-Anwar/DSA/tree/master/1932-merge-bsts-to-create-single-bst) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shezan-Anwar/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/Shezan-Anwar/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shezan-Anwar/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shezan-Anwar/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/Shezan-Anwar/DSA/tree/master/1882-process-tasks-using-servers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Shezan-Anwar/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Shezan-Anwar/DSA/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
