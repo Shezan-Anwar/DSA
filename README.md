@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shezan-Anwar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shezan-Anwar/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Shezan-Anwar/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shezan-Anwar/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/Shezan-Anwar/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shezan-Anwar/DSA/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Shezan-Anwar/DSA/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Shezan-Anwar/DSA/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shezan-Anwar/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Shezan-Anwar/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shezan-Anwar/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Shezan-Anwar/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shezan-Anwar/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shezan-Anwar/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shezan-Anwar/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1288-remove-covered-intervals](https://github.com/Shezan-Anwar/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Shezan-Anwar/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shezan-Anwar/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Shezan-Anwar/DSA/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Shezan-Anwar/DSA/tree/master/0055-jump-game) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Shezan-Anwar/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shezan-Anwar/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/Shezan-Anwar/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shezan-Anwar/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shezan-Anwar/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -787,4 +791,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Shezan-Anwar/DSA/tree/master/1025-divisor-game) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/Shezan-Anwar/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
