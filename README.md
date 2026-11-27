@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Shezan-Anwar/DSA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Shezan-Anwar/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Shezan-Anwar/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0790-domino-and-tromino-tiling](https://github.com/Shezan-Anwar/DSA/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/Shezan-Anwar/DSA/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/Shezan-Anwar/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Shezan-Anwar/DSA/tree/master/0940-distinct-subsequences-ii) |
